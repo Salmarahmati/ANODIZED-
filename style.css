@@ -1,0 +1,126 @@
+body {
+    background-color: rgb(41, 40, 40);
+}
+
+.logo {
+    font-size: 45px;
+    color: white;
+    margin-left: 3%;
+}
+
+input {
+    background-color: black;
+    margin-left: 70%;
+    border: none;
+}
+
+nav {
+    background-color: rgb(226, 130, 107);
+    height: 35px;
+    padding: 2%;
+}
+
+nav a {
+    color: white;
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+main {
+    background-color: rgba(88, 88, 88, 0.199);
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+
+.sec1 {
+    display: inline-block;
+    width: 68%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+.welcome {
+    font-size: 25px;
+}
+
+.second {
+    display: inline-block;
+    width: 45%;
+    line-height: 30px;
+    margin-top: 7%;
+}
+
+.third {
+    display: inline-block;
+    width: 45%;
+    margin-left: 2%;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
+
+.secpartparagraphs {
+    display: inline-block;
+    width: 300px;
+    margin-left: 1%;
+}
+
+.sec1of1 .second a {
+    font-size: 20px;
+    color: white;
+}
+
+.sec2 {
+    display: inline-block;
+    width: 28%;
+    line-height: 30px;
+    margin-top: 5%;
+}
+
+.sec2 a {
+    font-size: 20px;
+    color: white;
+}
+
+.first {
+    width: 800px;
+    margin-top: 5%;
+}
+
+.sec3 {
+    background-color: rgb(29, 28, 28);
+    width: 82.2%;
+    margin: auto;
+    color: white;
+    height: 210px;
+    padding: 4%;
+    line-height: 25px;
+
+}
+
+.sec3div1 {
+    display: inline-block;
+    width: 68%;
+    margin-left: 2%;
+    margin-bottom: 6%;
+}
+
+.sec3div2 {
+    display: inline-block;
+    width: 28%;
+}
+
+.sec3 .sec3div2 a {
+    font-size: 20px;
+    color: white;
+}
+
+.FOOT {
+    color: gray;
+    margin-left: 43%;
+}
